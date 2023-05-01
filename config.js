@@ -1,8 +1,8 @@
 /**
-   * Create By Dika Ardnt.
-   * Recode By Naze Dev && Papah-Chan
-   * Contact Me on wa.me/6282287219167
-   * Follow https://github.com/FahriAdison
+   * Create By 𝙉𝙞𝙯𝙖𝙧𝘽𝙤𝙩𝙯.
+   * Recode By 𝙉𝙞𝙯𝙖𝙧𝘽𝙤𝙩𝙯
+   * Contact Me on wa.me/6283113150125
+   * Follow https://www.tiktok.com/@nizar_mods1?_t=8bwgnaN0oKn&_r=1
 */
 
 const fs = require('fs')
@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6282287219167']
-global.ownernomer = "6282287219167"
-global.premium = ['6282287219167']
-global.packname = 'Sticker By'
-global.author = 'Sad-Bot'
+global.owner = ['6283113150125']
+global.ownernomer = "6283113150125"
+global.premium = ['6283113150125']
+global.packname = '𝙉𝙞𝙯𝙖𝙧𝘽𝙤𝙩𝙯'
+global.author = '𝙉𝙞𝙯𝙖𝙧𝘽𝙤𝙩𝙯'
 global.sessionName = 'papah'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
